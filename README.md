@@ -3,7 +3,7 @@ Happy Birthday
 A Happy Birthday animation design in CSS3, HTML5.
 
 <<<<<<< Updated upstream
-URL: http://aurittroahsan.github.io/birthday/
+URL: http://aurittroahsan.github.io/mamu/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
